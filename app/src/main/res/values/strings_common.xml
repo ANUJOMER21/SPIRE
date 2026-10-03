@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_nav_products">Products</string>
+    <string name="common_nav_cart">Cart</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_try_again">Try again</string>
+    <string name="common_offline_banner">You\'re offline — showing saved data</string>
+    <string name="common_decrease_quantity">Decrease quantity</string>
+    <string name="common_increase_quantity">Increase quantity</string>
+
+    <string name="common_error_no_internet_title">No internet connection</string>
+    <string name="common_error_network_title">Connection problem</string>
+    <string name="common_error_timeout_title">Request timed out</string>
+    <string name="common_error_http_title">Server error</string>
+    <string name="common_error_parse_title">Unexpected response</string>
+    <string name="common_error_not_found_title">Not found</string>
+    <string name="common_error_unknown_title">Something went wrong</string>
+
+    <string name="common_error_no_internet_message">Check your connection and try again.</string>
+    <string name="common_error_network_message">The connection failed. Please try again.</string>
+    <string name="common_error_timeout_message">The server took too long to respond.</string>
+    <string name="common_error_http_message">The server returned an error (%1$d). Please try again.</string>
+    <string name="common_error_parse_message">We couldn\'t read the server response.</string>
+    <string name="common_error_not_found_message">This item no longer exists.</string>
+    <string name="common_error_unknown_message">Please try again.</string>
+</resources>

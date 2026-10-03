@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="products_discover_title">Discover</string>
+    <string name="products_discover_subtitle">Find something you\'ll love</string>
+    <string name="products_search_placeholder">Search products, brands…</string>
+    <string name="products_clear_search">Clear search</string>
+    <string name="products_category_all">All</string>
+    <string name="products_retry">Retry</string>
+    <string name="products_refresh">Refresh</string>
+    <string name="products_add_to_cart_cd">Add to cart</string>
+    <string name="products_rating_cd">Rating</string>
+
+    <string name="products_add_dialog_title">Add to cart?</string>
+    <string name="products_add_dialog_message">Add \"%1$s\" (%2$s) to your cart?</string>
+    <string name="products_add_dialog_confirm">Add</string>
+
+    <string name="products_no_results_title">No results found</string>
+    <string name="products_no_results_message">We couldn\'t find anything for \"%1$s\". Try a different search term.</string>
+    <string name="products_empty_title">No products yet</string>
+    <string name="products_empty_message">Pull down to refresh.</string>
+
+    <string name="products_snackbar_added">%1$s added to cart</string>
+    <string name="products_snackbar_max_reached">Only %1$d in stock</string>
+    <string name="products_snackbar_out_of_stock">Out of stock</string>
+</resources>
